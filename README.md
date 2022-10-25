@@ -1,4 +1,4 @@
-<h1 align="center">[Discord] - CsGo-Skin Changer</h1>
+<h1 align="center">CsGo-Skin Changer</h1>
 
 
 
